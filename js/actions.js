@@ -1,4 +1,4 @@
-document.getElementById('izaw1').addEventListener('click', function () {
+document.getElementById('nextImg').addEventListener('click', function () {
   // Obtenha todas as imagens dentro da div com id 'i78jh'
   var imagens = document.querySelectorAll('#i78jh img');
   // Encontre a imagem atualmente visível
